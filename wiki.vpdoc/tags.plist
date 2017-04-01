@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>3a1450c8-7216-4079-a2e8-618d5a768e68</key>
+	<string>Home</string>
+	<key>3bc0dca4-87f2-48e4-b5c4-0aee72d6e67d</key>
+	<string>Work</string>
+	<key>50d01b63-92d6-49ac-887f-c436e50450d8</key>
+	<string>ToDo</string>
+	<key>6abdbaaf-fd42-4717-af90-53349377330b</key>
+	<string>Read Later</string>
+	<key>6daade4c-8aa4-47a7-8df9-372ff692693d</key>
+	<string>Research</string>
+</dict>
+</plist>
