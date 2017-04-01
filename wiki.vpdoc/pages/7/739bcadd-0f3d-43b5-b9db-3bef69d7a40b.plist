@@ -19,19 +19,19 @@
 	<key>categories</key>
 	<array/>
 	<key>createdDate</key>
-	<date>2017-04-01T12:30:01Z</date>
+	<date>2017-04-01T23:48:31Z</date>
 	<key>dataHash</key>
-	<string>b2299861753aed91d2255748554d196cfd002471</string>
+	<string>ba21203a80a61350b605d231e4c2a7fe00095709</string>
 	<key>displayName</key>
-	<string>Rails</string>
+	<string>MySQL</string>
 	<key>encrypted</key>
 	<string>No</string>
 	<key>key</key>
-	<string>rails</string>
+	<string>mysql</string>
 	<key>metaValues</key>
 	<dict/>
 	<key>modifiedDate</key>
-	<date>2017-04-01T23:33:12Z</date>
+	<date>2017-04-01T23:49:30Z</date>
 	<key>shouldHighlightLinks</key>
 	<string>Yes</string>
 	<key>skipOnExport</key>
@@ -39,7 +39,7 @@
 	<key>uti</key>
 	<string>com.apple.rtfd</string>
 	<key>uuid</key>
-	<string>f5c64550-e43c-4e4c-b8ac-899f2306637c</string>
+	<string>739bcadd-0f3d-43b5-b9db-3bef69d7a40b</string>
 	<key>version</key>
 	<integer>1</integer>
 </dict>
