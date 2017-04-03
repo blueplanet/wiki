@@ -10,8 +10,64 @@
 	<true/>
 	<key>dbVersion</key>
 	<string>7</string>
+	<key>defaultPage</key>
+	<string>Index</string>
+	<key>defaultUUID</key>
+	<string>7994ab9c-ac36-4ccc-8d92-8a25c1475b8c</string>
+	<key>expectedPageCount</key>
+	<integer>6</integer>
 	<key>localWebAccess</key>
 	<false/>
+	<key>openWindows</key>
+	<array>
+		<dict>
+			<key>displayUUID</key>
+			<string>739bcadd-0f3d-43b5-b9db-3bef69d7a40b</string>
+			<key>drawerOpen</key>
+			<false/>
+			<key>openUUIDProperties</key>
+			<array>
+				<dict>
+					<key>itemUUID</key>
+					<string>7994ab9c-ac36-4ccc-8d92-8a25c1475b8c</string>
+					<key>rulerVisible</key>
+					<false/>
+					<key>selectedRange</key>
+					<string>{37, 8}</string>
+					<key>visibleGlyphs</key>
+					<string>{0, 45}</string>
+					<key>zoomScale</key>
+					<real>1</real>
+				</dict>
+				<dict>
+					<key>itemUUID</key>
+					<string>f5c64550-e43c-4e4c-b8ac-899f2306637c</string>
+					<key>rulerVisible</key>
+					<false/>
+					<key>selectedRange</key>
+					<string>{29, 0}</string>
+					<key>visibleGlyphs</key>
+					<string>{0, 29}</string>
+					<key>zoomScale</key>
+					<real>1</real>
+				</dict>
+				<dict>
+					<key>itemUUID</key>
+					<string>739bcadd-0f3d-43b5-b9db-3bef69d7a40b</string>
+					<key>rulerVisible</key>
+					<false/>
+					<key>selectedRange</key>
+					<string>{215, 0}</string>
+					<key>visibleGlyphs</key>
+					<string>{0, 221}</string>
+					<key>zoomScale</key>
+					<real>1</real>
+				</dict>
+			</array>
+			<key>windowFrame</key>
+			<string>{{1311, -943}, {632, 704}}</string>
+		</dict>
+	</array>
 	<key>skIndexVersion</key>
 	<integer>7</integer>
 	<key>updatedFMPageToRealUTIs</key>

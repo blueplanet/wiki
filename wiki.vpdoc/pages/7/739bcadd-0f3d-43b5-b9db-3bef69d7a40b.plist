@@ -21,7 +21,7 @@
 	<key>createdDate</key>
 	<date>2017-04-01T23:48:31Z</date>
 	<key>dataHash</key>
-	<string>ba21203a80a61350b605d231e4c2a7fe00095709</string>
+	<string>b9145c78beb22000a513dc813f9ccb73b3995cec</string>
 	<key>displayName</key>
 	<string>MySQL</string>
 	<key>encrypted</key>
@@ -31,7 +31,7 @@
 	<key>metaValues</key>
 	<dict/>
 	<key>modifiedDate</key>
-	<date>2017-04-01T23:49:30Z</date>
+	<date>2017-04-03T00:42:35Z</date>
 	<key>shouldHighlightLinks</key>
 	<string>Yes</string>
 	<key>skipOnExport</key>
