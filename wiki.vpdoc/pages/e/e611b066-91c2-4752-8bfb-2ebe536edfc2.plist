@@ -19,27 +19,27 @@
 	<key>categories</key>
 	<array/>
 	<key>createdDate</key>
-	<date>2017-04-01T12:30:01Z</date>
+	<date>2017-04-04T06:28:18Z</date>
 	<key>dataHash</key>
-	<string>eeedbf14ff10a509801f77474074c53eaefd78e3</string>
+	<string>94c81e3be9bb6a95495c6031405ad18678368b0c</string>
 	<key>displayName</key>
-	<string>Rails</string>
+	<string>ActiveSupport</string>
 	<key>encrypted</key>
 	<string>No</string>
 	<key>key</key>
-	<string>rails</string>
+	<string>activesupport</string>
 	<key>metaValues</key>
 	<dict/>
 	<key>modifiedDate</key>
-	<date>2017-04-04T06:32:58Z</date>
+	<date>2017-04-04T06:31:00Z</date>
 	<key>shouldHighlightLinks</key>
 	<string>Yes</string>
 	<key>skipOnExport</key>
 	<string>No</string>
 	<key>uti</key>
-	<string>com.apple.rtfd</string>
+	<string>net.daringfireball.markdown</string>
 	<key>uuid</key>
-	<string>f5c64550-e43c-4e4c-b8ac-899f2306637c</string>
+	<string>e611b066-91c2-4752-8bfb-2ebe536edfc2</string>
 	<key>version</key>
 	<integer>1</integer>
 </dict>

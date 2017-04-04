@@ -1,0 +1,3 @@
+
+- [Active Support の Instrumentation 機能 | Rails ガイド](https://railsguides.jp/active_support_instrumentation.html)
+  - 計測のみ、observerの使い方ではないようだ
