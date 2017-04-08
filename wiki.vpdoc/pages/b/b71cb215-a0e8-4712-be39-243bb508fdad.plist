@@ -19,19 +19,19 @@
 	<key>categories</key>
 	<array/>
 	<key>createdDate</key>
-	<date>2017-04-01T12:27:49Z</date>
+	<date>2017-04-08T01:26:18Z</date>
 	<key>dataHash</key>
-	<string>567d5a4dda51b8ef1e0b56e6bd7ba35bd6e3f356</string>
+	<string>76e049d8db431b4fdc2aa627a6d670a42c32304b</string>
 	<key>displayName</key>
-	<string>Index</string>
+	<string>ユーザストリー</string>
 	<key>encrypted</key>
 	<string>No</string>
 	<key>key</key>
-	<string>index</string>
+	<string>ユーザストリー</string>
 	<key>metaValues</key>
 	<dict/>
 	<key>modifiedDate</key>
-	<date>2017-04-08T01:26:14Z</date>
+	<date>2017-04-08T01:28:44Z</date>
 	<key>shouldHighlightLinks</key>
 	<string>Yes</string>
 	<key>skipOnExport</key>
@@ -39,7 +39,7 @@
 	<key>uti</key>
 	<string>com.apple.rtfd</string>
 	<key>uuid</key>
-	<string>7994ab9c-ac36-4ccc-8d92-8a25c1475b8c</string>
+	<string>b71cb215-a0e8-4712-be39-243bb508fdad</string>
 	<key>version</key>
 	<integer>1</integer>
 </dict>
