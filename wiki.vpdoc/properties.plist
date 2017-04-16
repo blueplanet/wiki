@@ -15,14 +15,14 @@
 	<key>defaultUUID</key>
 	<string>7994ab9c-ac36-4ccc-8d92-8a25c1475b8c</string>
 	<key>expectedPageCount</key>
-	<integer>7</integer>
+	<integer>9</integer>
 	<key>localWebAccess</key>
 	<false/>
 	<key>openWindows</key>
 	<array>
 		<dict>
 			<key>displayUUID</key>
-			<string>f5c64550-e43c-4e4c-b8ac-899f2306637c</string>
+			<string>7b118773-54fb-4dc0-9d65-c719d8f4ab78</string>
 			<key>drawerOpen</key>
 			<false/>
 			<key>openUUIDProperties</key>
@@ -33,9 +33,9 @@
 					<key>rulerVisible</key>
 					<false/>
 					<key>selectedRange</key>
-					<string>{45, 0}</string>
+					<string>{63, 6}</string>
 					<key>visibleGlyphs</key>
-					<string>{0, 45}</string>
+					<string>{0, 102}</string>
 					<key>zoomScale</key>
 					<real>1</real>
 				</dict>
@@ -45,7 +45,7 @@
 					<key>rulerVisible</key>
 					<false/>
 					<key>selectedRange</key>
-					<string>{263, 0}</string>
+					<string>{264, 0}</string>
 					<key>visibleGlyphs</key>
 					<string>{0, 264}</string>
 					<key>zoomScale</key>
@@ -69,15 +69,39 @@
 					<key>rulerVisible</key>
 					<false/>
 					<key>selectedRange</key>
-					<string>{21, 15}</string>
+					<string>{141, 0}</string>
 					<key>visibleGlyphs</key>
 					<string>{0, 141}</string>
 					<key>zoomScale</key>
 					<real>1</real>
 				</dict>
+				<dict>
+					<key>itemUUID</key>
+					<string>b71cb215-a0e8-4712-be39-243bb508fdad</string>
+					<key>rulerVisible</key>
+					<false/>
+					<key>selectedRange</key>
+					<string>{37, 0}</string>
+					<key>visibleGlyphs</key>
+					<string>{0, 38}</string>
+					<key>zoomScale</key>
+					<real>1</real>
+				</dict>
+				<dict>
+					<key>itemUUID</key>
+					<string>7b118773-54fb-4dc0-9d65-c719d8f4ab78</string>
+					<key>rulerVisible</key>
+					<false/>
+					<key>selectedRange</key>
+					<string>{100, 0}</string>
+					<key>visibleGlyphs</key>
+					<string>{0, 102}</string>
+					<key>zoomScale</key>
+					<real>1</real>
+				</dict>
 			</array>
 			<key>windowFrame</key>
-			<string>{{1222, -1080}, {960, 1058}}</string>
+			<string>{{-0, -0}, {2560, 1418}}</string>
 		</dict>
 	</array>
 	<key>skIndexVersion</key>
