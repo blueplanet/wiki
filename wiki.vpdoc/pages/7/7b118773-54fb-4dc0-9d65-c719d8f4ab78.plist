@@ -21,7 +21,7 @@
 	<key>createdDate</key>
 	<date>2017-04-08T01:31:23Z</date>
 	<key>dataHash</key>
-	<string>f6c89c94e625c9f767b79b4d88a82661b9439d41</string>
+	<string>7c64ec59d4de9a53ba196b924a16e1fbe546c851</string>
 	<key>displayName</key>
 	<string>docker</string>
 	<key>encrypted</key>
@@ -31,7 +31,7 @@
 	<key>metaValues</key>
 	<dict/>
 	<key>modifiedDate</key>
-	<date>2017-04-16T20:49:16Z</date>
+	<date>2017-04-16T23:44:44Z</date>
 	<key>shouldHighlightLinks</key>
 	<string>Yes</string>
 	<key>skipOnExport</key>
