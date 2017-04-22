@@ -45,7 +45,7 @@
 					<key>rulerVisible</key>
 					<false/>
 					<key>selectedRange</key>
-					<string>{264, 0}</string>
+					<string>{0, 0}</string>
 					<key>visibleGlyphs</key>
 					<string>{0, 264}</string>
 					<key>zoomScale</key>
@@ -69,7 +69,7 @@
 					<key>rulerVisible</key>
 					<false/>
 					<key>selectedRange</key>
-					<string>{141, 0}</string>
+					<string>{0, 0}</string>
 					<key>visibleGlyphs</key>
 					<string>{0, 141}</string>
 					<key>zoomScale</key>
@@ -93,9 +93,9 @@
 					<key>rulerVisible</key>
 					<false/>
 					<key>selectedRange</key>
-					<string>{100, 0}</string>
+					<string>{483, 0}</string>
 					<key>visibleGlyphs</key>
-					<string>{0, 102}</string>
+					<string>{0, 483}</string>
 					<key>zoomScale</key>
 					<real>1</real>
 				</dict>
