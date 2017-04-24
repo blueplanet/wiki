@@ -21,7 +21,7 @@
 	<key>createdDate</key>
 	<date>2017-04-24T07:15:19Z</date>
 	<key>dataHash</key>
-	<string>db4b6817061ba13a7353e70cb90c30741786aee5</string>
+	<string>585d48e610bcfc4101799638fd8c933ba38e75b7</string>
 	<key>displayName</key>
 	<string>vuejs</string>
 	<key>encrypted</key>
@@ -31,7 +31,7 @@
 	<key>metaValues</key>
 	<dict/>
 	<key>modifiedDate</key>
-	<date>2017-04-24T07:16:15Z</date>
+	<date>2017-04-24T19:53:18Z</date>
 	<key>shouldHighlightLinks</key>
 	<string>Yes</string>
 	<key>skipOnExport</key>
