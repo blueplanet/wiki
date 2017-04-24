@@ -19,19 +19,19 @@
 	<key>categories</key>
 	<array/>
 	<key>createdDate</key>
-	<date>2017-04-01T12:27:49Z</date>
+	<date>2017-04-24T07:15:19Z</date>
 	<key>dataHash</key>
-	<string>d9c2237bbf68e646265f56683fe7738e13efc358</string>
+	<string>db4b6817061ba13a7353e70cb90c30741786aee5</string>
 	<key>displayName</key>
-	<string>Index</string>
+	<string>vuejs</string>
 	<key>encrypted</key>
 	<string>No</string>
 	<key>key</key>
-	<string>index</string>
+	<string>vuejs</string>
 	<key>metaValues</key>
 	<dict/>
 	<key>modifiedDate</key>
-	<date>2017-04-24T07:15:16Z</date>
+	<date>2017-04-24T07:16:15Z</date>
 	<key>shouldHighlightLinks</key>
 	<string>Yes</string>
 	<key>skipOnExport</key>
@@ -39,7 +39,7 @@
 	<key>uti</key>
 	<string>com.apple.rtfd</string>
 	<key>uuid</key>
-	<string>7994ab9c-ac36-4ccc-8d92-8a25c1475b8c</string>
+	<string>9d4e98f9-dd5b-41f1-9627-64a11fc10d82</string>
 	<key>version</key>
 	<integer>1</integer>
 </dict>
