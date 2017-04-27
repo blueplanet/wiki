@@ -21,7 +21,7 @@
 	<key>createdDate</key>
 	<date>2017-04-01T12:30:01Z</date>
 	<key>dataHash</key>
-	<string>eeedbf14ff10a509801f77474074c53eaefd78e3</string>
+	<string>0bcab956a101db70797ae1af4c3c75cb7c98998f</string>
 	<key>displayName</key>
 	<string>Rails</string>
 	<key>encrypted</key>
@@ -31,7 +31,7 @@
 	<key>metaValues</key>
 	<dict/>
 	<key>modifiedDate</key>
-	<date>2017-04-04T06:32:58Z</date>
+	<date>2017-04-27T14:39:56Z</date>
 	<key>shouldHighlightLinks</key>
 	<string>Yes</string>
 	<key>skipOnExport</key>
